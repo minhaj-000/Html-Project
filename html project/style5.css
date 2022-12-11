@@ -1,0 +1,41 @@
+p{
+    color: red; 
+    font-weight: bold; 
+ }
+ 
+ *{
+     background-color: papayawhip;
+ }
+ h1{
+     border: 2px solid black;
+     margin: 10px;
+     margin: auto;
+     margin-top: 50px;
+     width: 400px;
+     text-align: center;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     border-radius: 15px;
+     color: blue;
+     background-color: lightblue;
+     outline: 5px solid brown;
+     outline-offset: -5px;
+     text-decoration: underline;
+      
+ }
+ h2{
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+     
+ }
+ 
+ marquee{
+     color: blue;
+ }
+ h3{
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+    
+}

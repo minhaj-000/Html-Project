@@ -1,0 +1,51 @@
+p{
+   color: red; 
+   font-weight: bold; 
+}
+
+*{
+    background-color: papayawhip;
+}
+h1{
+    border: 2px solid black;
+    margin: 10px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 400px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    color: blue;
+    background-color: lightskyblue;
+    outline: 5px solid brown;
+    outline-offset: -5px;
+    text-decoration: underline;
+     
+}
+h2{
+    border: 2px solid black;
+    margin: 10px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 400px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    color: blue;
+    background-color: lightskyblue;
+    outline: 5px solid brown;
+    outline-offset: -5px;
+    text-decoration: underline;
+     
+}
+
+marquee{
+    color: red;
+}
+img{
+    padding-left: 550px;
+}

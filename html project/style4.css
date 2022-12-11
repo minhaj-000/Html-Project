@@ -1,0 +1,21 @@
+p{
+    color: red; 
+    font-weight: bold; 
+ }
+ 
+ *{
+     background-color: papayawhip;
+ }
+ h1{
+     
+     text-align: center;
+     color: blue;
+     text-decoration: underline;
+      
+ }
+
+     
+ 
+ marquee{
+     color: blue;
+ }
